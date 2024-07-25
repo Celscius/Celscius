@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celscius&theme=tokyonight)
+
 
 <!--
 **Celscius/Celscius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celscius&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celscius&hide=javascript,css,scss,html&theme=tokyonight)
 Here are some ideas to get you started:
 
